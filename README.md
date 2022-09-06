@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nguyen-thanhphat" alt="thanhphat" /></p>
 
-- ✍ I'm a student of: [Hung Yen University of Technology and Education](https://utehy.edu.vn) (UTEHY).
+- ✍ I'm a student of: [Hung Yen University of Technology and Education](http://utehy.edu.vn) (UTEHY).
 
 - 🌱 I’m currently learning **MERN Stack.**
 
