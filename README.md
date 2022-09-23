@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [Hung Yen University of Technology and Education](http://utehy.edu.vn) (UTEHY).
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **.NET Backend**
 
 
 ## 📫 How to reach me:
